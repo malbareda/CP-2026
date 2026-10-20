@@ -33,6 +33,8 @@ public class VariablesInt {
 		System.out.println("5.");	
 		System.out.println(a);
 		System.out.println("-----------");
+		
+		//he hecho un cambio!
 	}
 
 }
