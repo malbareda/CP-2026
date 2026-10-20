@@ -1,6 +1,6 @@
-# 05 · L'`Scanner`: llegir del teclat
+# TuAmigoElScanner — Llegir del teclat amb l'`Scanner`
 
-[⬅️ Anterior](04-variables-string.md) · [Índex](README.md) · [Següent ➡️](06-pa-amb-tomaquet.md)
+[🏠 Índex](../../README.md) · [⬅️ Anterior](../VariablesString.md) · [Següent ➡️](../ProblemasIntroJoel/PaAmbTomaquet.md)
 
 Fitxer: `src/elScanner/TuAmigoElScanner.java`
 
@@ -228,7 +228,7 @@ flowchart LR
 
 > [!IMPORTANT]
 > Regla: **si llegeixo números (`nextInt`/`nextDouble`) i després vull llegir una línia de text (`nextLine`), poso un `sc.nextLine();` solt entremig.**
-> Si només llegeixo línies (com a [Pa amb tomàquet](06-pa-amb-tomaquet.md)), no cal.
+> Si només llegeixo línies (com a [Pa amb tomàquet](../ProblemasIntroJoel/PaAmbTomaquet.md)), no cal.
 
 ---
 

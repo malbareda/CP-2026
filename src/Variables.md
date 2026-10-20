@@ -1,6 +1,6 @@
-# 02 · Què és una variable i quins tipus hi ha
+# Variables — Què és una variable i quins tipus hi ha
 
-[⬅️ Anterior](01-primer-programa.md) · [Índex](README.md) · [Següent ➡️](03-variables-int.md)
+[🏠 Índex](../README.md) · [⬅️ Anterior](ProblemasIntroJoel/HelloWorld.md) · [Següent ➡️](VariablesInt.md)
 
 Fitxer: `src/Variables.java`
 

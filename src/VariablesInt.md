@@ -1,6 +1,6 @@
-# 03 · Variables `int`: assignar, operar i acumular
+# VariablesInt — Assignar, operar i acumular
 
-[⬅️ Anterior](02-variables.md) · [Índex](README.md) · [Següent ➡️](04-variables-string.md)
+[🏠 Índex](../README.md) · [⬅️ Anterior](Variables.md) · [Següent ➡️](VariablesString.md)
 
 Fitxer: `src/VariablesInt.java`
 

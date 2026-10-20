@@ -1,6 +1,6 @@
-# 04 · Variables `String`: text i concatenació
+# VariablesString — Text i concatenació
 
-[⬅️ Anterior](03-variables-int.md) · [Índex](README.md) · [Següent ➡️](05-scanner.md)
+[🏠 Índex](../README.md) · [⬅️ Anterior](VariablesInt.md) · [Següent ➡️](elScanner/TuAmigoElScanner.md)
 
 Fitxer: `src/VariablesString.java`
 

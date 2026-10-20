@@ -1,6 +1,6 @@
-# 06 · Exercici: Pa amb tomàquet 🍅🍞
+# PaAmbTomaquet — Exercici: pa amb tomàquet 🍅🍞
 
-[⬅️ Anterior](05-scanner.md) · [Índex](README.md)
+[🏠 Índex](../../README.md) · [⬅️ Anterior](../elScanner/TuAmigoElScanner.md)
 
 Fitxer: `src/ProblemasIntroJoel/PaAmbTomaquet.java`
 
@@ -102,7 +102,7 @@ Fins ara sempre declaràvem amb valor (`String s = "hola";`). Aquí **només es 
 
 - Es crea l'Scanner (recorda l'`import java.util.Scanner;` de dalt!).
 - `palabra1 = sc.nextLine();` → espera que escrigui una línia i la guarda a `palabra1`.
-- **Sense `String` davant**, perquè la variable ja estava declarada (com `a = 10;` a [VariablesInt](03-variables-int.md#1️⃣-declarar-vs-assignar)).
+- **Sense `String` davant**, perquè la variable ja estava declarada (com `a = 10;` a [VariablesInt](../VariablesInt.md#1️⃣-declarar-vs-assignar)).
 
 > [!NOTE]
 > Aquí **no cal** el `sc.nextLine();` solt: només llegim línies de text, no hi ha cap `nextInt`/`nextDouble` abans que deixi un `Enter` pendent.
