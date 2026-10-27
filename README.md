@@ -14,6 +14,12 @@ El meu projecte d'Eclipse del curs. Cada classe `.java` té al costat **el seu a
 | 6 | `VariablesString` | [VariablesString.md](src/VariablesString.md) | Text i concatenació amb `+` |
 | 7 | `elScanner.TuAmigoElScanner` | [TuAmigoElScanner.md](src/elScanner/TuAmigoElScanner.md) | Llegir del teclat: `nextInt`, `nextDouble`, `nextLine` |
 | 8 | `ProblemasIntroJoel.PaAmbTomaquet` | [PaAmbTomaquet.md](src/ProblemasIntroJoel/PaAmbTomaquet.md) | Exercici: declarar → llegir → muntar → escriure |
+| 9 | `alternativesifs.ElTeuAmicIf` | [ElTeuAmicIf.md](src/alternativesifs/ElTeuAmicIf.md) | `if` / `else`: triar entre dos camins |
+| 10 | `alternativesifs.ElTeuAmicElseIf` | [ElTeuAmicElseIf.md](src/alternativesifs/ElTeuAmicElseIf.md) | `else if`: més camins, només entra al primer `true` |
+| 11 | `alternativesifs.operadoresLogicos` | [operadoresLogicos.md](src/alternativesifs/operadoresLogicos.md) | `>` `<` `>=` `<=` `==` `!=`, `!`, OR `\|\|`, AND `&&` |
+| 12 | `ProblemasJOEL.Eleccions2020` | [Eleccions2020.md](src/ProblemasJOEL/Eleccions2020.md) | Exercici: qui guanya entre dos (sense empat) |
+| 13 | `ProblemasJOEL.Eleccions20202` | [Eleccions20202.md](src/ProblemasJOEL/Eleccions20202.md) | Exercici: dos candidats + empat amb `else` |
+| 14 | `ProblemasJOEL.Eleccions20203` | [Eleccions20203.md](src/ProblemasJOEL/Eleccions20203.md) | Exercici: tres candidats amb `&&` |
 
 ### Llegenda dels apunts
 
@@ -62,11 +68,14 @@ CP-2026/
 │   ├── elScanner/                 ← un "package" (carpeta)
 │   │   ├── TuAmigoElScanner.java
 │   │   └── TuAmigoElScanner.md
-│   └── ProblemasIntroJoel/        ← un altre "package"
-│       ├── HelloWorld.java
-│       ├── HelloWorld.md
-│       ├── PaAmbTomaquet.java
-│       └── PaAmbTomaquet.md
+│   ├── ProblemasIntroJoel/        ← un altre "package"
+│   │   ├── HelloWorld.java
+│   │   ├── HelloWorld.md
+│   │   └── ...
+│   ├── alternativesifs/           ← if, else if, operadors lògics
+│   │   └── ...
+│   └── ProblemasJOEL/             ← exercicis (Eleccions...)
+│       └── ...
 └── bin/                  ← ⚙️ CODI COMPILAT (.class) → el genera Eclipse sol
 ```
 

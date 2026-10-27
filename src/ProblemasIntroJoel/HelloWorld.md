@@ -37,7 +37,7 @@ Hello World
 
 ### `package ProblemasIntroJoel;`
 
-Aquesta classe està dins la carpeta `src/ProblemasIntroJoel/`. Quan una classe és dins d'una carpeta (un **package**), la primera línia ho ha de dir. Més detalls al [README](../../README.md#-els-packages-carpetes-dins-de-src).
+Aquesta classe està dins la carpeta `src/ProblemasIntroJoel/`. Quan una classe és dins d'una carpeta (un **package**), la primera línia ho ha de dir. Més detalls al [README](../../README.md).
 
 ### `// TODO Auto-generated method stub`
 
