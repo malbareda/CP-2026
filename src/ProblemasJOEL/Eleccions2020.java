@@ -6,7 +6,7 @@ public class Eleccions2020 {
 	
 	public static void main(String[] args) {
 		
-		
+		//HOLA MARC
 		//COM ES L'ENTRADA
 		Scanner sc = new Scanner(System.in);
 		
