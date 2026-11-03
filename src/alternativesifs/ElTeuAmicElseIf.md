@@ -1,6 +1,6 @@
 # ElTeuAmicElseIf — L'`else if`: més de dos camins
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](ElTeuAmicIf.md) · [Següent ➡️](operadoresLogicos.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](ElTeuAmicIf.md) · [Següent ➡️](operadoresLogicos.md)
 
 Fitxer: `src/alternativesifs/ElTeuAmicElseIf.java`
 

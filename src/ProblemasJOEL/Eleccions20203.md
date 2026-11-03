@@ -1,6 +1,6 @@
 # Eleccions20203 — Exercici: qui guanya? (versió 3, tres candidats)
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](Eleccions20202.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](Eleccions20202.md) · [Següent ➡️](../alternativesifs/modulos.md)
 
 Fitxer: `src/ProblemasJOEL/Eleccions20203.java`
 

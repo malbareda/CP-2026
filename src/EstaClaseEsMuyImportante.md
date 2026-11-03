@@ -1,6 +1,6 @@
 # EstaClaseEsMuyImportante — L'esquelet de tot programa
 
-[🏠 Índex](../README.md) · [Següent ➡️](MiPrimerPrograma.md)
+[🏠 Índex](../README.md) · [📦 Paquet](README.md) · [Següent ➡️](MiPrimerPrograma.md)
 
 Fitxer: `src/EstaClaseEsMuyImportante.java`
 

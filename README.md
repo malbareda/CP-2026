@@ -20,6 +20,19 @@ El meu projecte d'Eclipse del curs. Cada classe `.java` té al costat **el seu a
 | 12 | `ProblemasJOEL.Eleccions2020` | [Eleccions2020.md](src/ProblemasJOEL/Eleccions2020.md) | Exercici: qui guanya entre dos (sense empat) |
 | 13 | `ProblemasJOEL.Eleccions20202` | [Eleccions20202.md](src/ProblemasJOEL/Eleccions20202.md) | Exercici: dos candidats + empat amb `else` |
 | 14 | `ProblemasJOEL.Eleccions20203` | [Eleccions20203.md](src/ProblemasJOEL/Eleccions20203.md) | Exercici: tres candidats amb `&&` |
+| 15 | `alternativesifs.modulos` | [modulos.md](src/alternativesifs/modulos.md) | `/` i `%`, parells/senars, divisió entera, `long`, segons → anys |
+
+## 📦 Paquets
+
+Cada paquet té el seu `README.md` amb una explicació breu i els enllaços als seus apunts.
+
+| Paquet | De què va |
+|--------|-----------|
+| [src (default package)](src/README.md) | Fonaments: `main`, `println`, variables |
+| [elScanner](src/elScanner/README.md) | Llegir del teclat amb l'`Scanner` |
+| [ProblemasIntroJoel](src/ProblemasIntroJoel/README.md) | Primers exercicis: Hello World i Pa amb tomàquet |
+| [alternativesifs](src/alternativesifs/README.md) | `if`, `else if`, operadors lògics i el residu `%` |
+| [ProblemasJOEL](src/ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
 
 ### Llegenda dels apunts
 
@@ -60,6 +73,7 @@ CP-2026/
 ├── .classpath            ← fitxer d'Eclipse (on és el codi, quina versió de Java)
 ├── .settings/            ← més configuració d'Eclipse
 ├── src/                  ← 💡 EL MEU CODI (.java) + els apunts (.md)
+│   ├── README.md              ← índex del paquet (n'hi ha un a cada carpeta)
 │   ├── MiPrimerPrograma.java
 │   ├── MiPrimerPrograma.md        ← apunt de la classe del costat
 │   ├── Variables.java

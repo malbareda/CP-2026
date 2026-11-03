@@ -1,6 +1,6 @@
 # ElTeuAmicIf — L'`if` / `else`: decidir entre dos camins
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](../ProblemasIntroJoel/PaAmbTomaquet.md) · [Següent ➡️](ElTeuAmicElseIf.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../ProblemasIntroJoel/PaAmbTomaquet.md) · [Següent ➡️](ElTeuAmicElseIf.md)
 
 Fitxer: `src/alternativesifs/ElTeuAmicIf.java`
 

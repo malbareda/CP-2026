@@ -1,6 +1,6 @@
 # VariablesInt — Assignar, operar i acumular
 
-[🏠 Índex](../README.md) · [⬅️ Anterior](Variables.md) · [Següent ➡️](VariablesString.md)
+[🏠 Índex](../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](Variables.md) · [Següent ➡️](VariablesString.md)
 
 Fitxer: `src/VariablesInt.java`
 

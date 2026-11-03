@@ -1,6 +1,6 @@
 # HelloWorld — El primer exercici
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](../MiPrimerPrograma.md) · [Següent ➡️](../Variables.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../MiPrimerPrograma.md) · [Següent ➡️](../Variables.md)
 
 Fitxer: `src/ProblemasIntroJoel/HelloWorld.java`
 

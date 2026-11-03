@@ -1,6 +1,6 @@
 # Eleccions20202 — Exercici: qui guanya? (versió 2, amb empat)
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](Eleccions2020.md) · [Següent ➡️](Eleccions20203.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](Eleccions2020.md) · [Següent ➡️](Eleccions20203.md)
 
 Fitxer: `src/ProblemasJOEL/Eleccions20202.java`
 

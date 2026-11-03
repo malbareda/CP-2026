@@ -1,6 +1,6 @@
 # operadoresLogicos — Comparar i combinar condicions
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](ElTeuAmicElseIf.md) · [Següent ➡️](../ProblemasJOEL/Eleccions2020.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](ElTeuAmicElseIf.md) · [Següent ➡️](../ProblemasJOEL/Eleccions2020.md)
 
 Fitxer: `src/alternativesifs/operadoresLogicos.java`
 

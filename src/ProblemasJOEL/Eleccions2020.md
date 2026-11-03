@@ -1,6 +1,6 @@
 # Eleccions2020 — Exercici: qui guanya? (versió 1)
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](../alternativesifs/operadoresLogicos.md) · [Següent ➡️](Eleccions20202.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../alternativesifs/operadoresLogicos.md) · [Següent ➡️](Eleccions20202.md)
 
 Fitxer: `src/ProblemasJOEL/Eleccions2020.java`
 
@@ -23,7 +23,7 @@ public class Eleccions2020 {
 	
 	public static void main(String[] args) {
 		
-		
+		//HOLA MARC
 		//COM ES L'ENTRADA
 		Scanner sc = new Scanner(System.in);
 		

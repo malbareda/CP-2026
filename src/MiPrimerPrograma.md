@@ -1,6 +1,6 @@
 # MiPrimerPrograma — `println`, comentaris i ordre d'execució
 
-[🏠 Índex](../README.md) · [⬅️ Anterior](EstaClaseEsMuyImportante.md) · [Següent ➡️](ProblemasIntroJoel/HelloWorld.md)
+[🏠 Índex](../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](EstaClaseEsMuyImportante.md) · [Següent ➡️](ProblemasIntroJoel/HelloWorld.md)
 
 Fitxer: `src/MiPrimerPrograma.java`
 

@@ -1,6 +1,6 @@
 # TuAmigoElScanner — Llegir del teclat amb l'`Scanner`
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](../VariablesString.md) · [Següent ➡️](../ProblemasIntroJoel/PaAmbTomaquet.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../VariablesString.md) · [Següent ➡️](../ProblemasIntroJoel/PaAmbTomaquet.md)
 
 Fitxer: `src/elScanner/TuAmigoElScanner.java`
 

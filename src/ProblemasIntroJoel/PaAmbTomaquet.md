@@ -1,6 +1,6 @@
 # PaAmbTomaquet — Exercici: pa amb tomàquet 🍅🍞
 
-[🏠 Índex](../../README.md) · [⬅️ Anterior](../elScanner/TuAmigoElScanner.md) · [Següent ➡️](../alternativesifs/ElTeuAmicIf.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../elScanner/TuAmigoElScanner.md) · [Següent ➡️](../alternativesifs/ElTeuAmicIf.md)
 
 Fitxer: `src/ProblemasIntroJoel/PaAmbTomaquet.java`
 
