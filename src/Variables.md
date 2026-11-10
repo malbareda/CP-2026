@@ -167,5 +167,3 @@ Regla d'or: **amb cometes = text tal qual. Sense cometes = nom d'alguna cosa** (
 - Es declara així: `TIPUS NOM_VARIABLE = VALOR_INICIAL;`
 - Tipus: `int` (enters), `double` (decimals), `String` (text), `boolean` (true/false).
 - `"a"` és text; `a` és una variable.
-
-
