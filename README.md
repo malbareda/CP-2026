@@ -21,6 +21,9 @@ El meu projecte d'Eclipse del curs. Cada classe `.java` té al costat **el seu a
 | 13 | `ProblemasJOEL.Eleccions20202` | [Eleccions20202.md](src/ProblemasJOEL/Eleccions20202.md) | Exercici: dos candidats + empat amb `else` |
 | 14 | `ProblemasJOEL.Eleccions20203` | [Eleccions20203.md](src/ProblemasJOEL/Eleccions20203.md) | Exercici: tres candidats amb `&&` |
 | 15 | `alternativesifs.modulos` | [modulos.md](src/alternativesifs/modulos.md) | `/` i `%`, parells/senars, divisió entera, `long`, segons → anys |
+| 16 | `alternativesswitch.exempleNum` | [exempleNum.md](src/alternativesswitch/exempleNum.md) | `switch` amb números, `break` i caiguda, `case 12, 1, 2:`, `i++` |
+| 17 | `alternativesswitch.exempleString` | [exempleString.md](src/alternativesswitch/exempleString.md) | `switch` amb text: `case "cafe":` |
+| 18 | `introbucles.IntroduccioWhile` | [IntroduccioWhile.md](src/introbucles/IntroduccioWhile.md) | `while`: bucle infinit, comptador, bucle per verificar |
 
 ## 📦 Paquets
 
@@ -33,6 +36,8 @@ Cada paquet té el seu `README.md` amb una explicació breu i els enllaços als 
 | [ProblemasIntroJoel](src/ProblemasIntroJoel/README.md) | Primers exercicis: Hello World i Pa amb tomàquet |
 | [alternativesifs](src/alternativesifs/README.md) | `if`, `else if`, operadors lògics i el residu `%` |
 | [ProblemasJOEL](src/ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
+| [alternativesswitch](src/alternativesswitch/README.md) | El `switch` |
+| [introbucles](src/introbucles/README.md) | Bucles: el `while` |
 
 ### Llegenda dels apunts
 
@@ -88,7 +93,11 @@ CP-2026/
 │   │   └── ...
 │   ├── alternativesifs/           ← if, else if, operadors lògics
 │   │   └── ...
-│   └── ProblemasJOEL/             ← exercicis (Eleccions...)
+│   ├── ProblemasJOEL/             ← exercicis (Eleccions...)
+│   │   └── ...
+│   ├── alternativesswitch/        ← switch
+│   │   └── ...
+│   └── introbucles/               ← bucles (while)
 │       └── ...
 └── bin/                  ← ⚙️ CODI COMPILAT (.class) → el genera Eclipse sol
 ```

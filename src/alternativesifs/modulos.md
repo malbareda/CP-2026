@@ -1,6 +1,6 @@
 # modulos — La divisió entera, el residu `%` i per a què serveix
 
-[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../ProblemasJOEL/Eleccions20203.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../ProblemasJOEL/Eleccions20203.md) · [Següent ➡️](../alternativesswitch/exempleNum.md)
 
 Fitxer: `src/alternativesifs/modulos.java`
 

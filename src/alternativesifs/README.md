@@ -33,3 +33,5 @@ Per fer les condicions calen els **operadors lògics** (`>`, `==`, `&&`, `||`...
 | [elScanner](../elScanner/README.md) | Llegir del teclat amb l'`Scanner` |
 | [ProblemasIntroJoel](../ProblemasIntroJoel/README.md) | Primers exercicis: Hello World i Pa amb tomàquet |
 | [ProblemasJOEL](../ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
+| [alternativesswitch](../alternativesswitch/README.md) | El `switch` |
+| [introbucles](../introbucles/README.md) | Bucles: el `while` |
