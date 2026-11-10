@@ -33,4 +33,4 @@ switch (variable) {
 | [ProblemasIntroJoel](../ProblemasIntroJoel/README.md) | Primers exercicis: Hello World i Pa amb tomàquet |
 | [alternativesifs](../alternativesifs/README.md) | `if`, `else if`, operadors lògics i el residu `%` |
 | [ProblemasJOEL](../ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
-| [introbucles](../introbucles/README.md) | Bucles: el `while` |
+| [introbucles](../introbucles/README.md) | Bucles: `while` i `for` |

@@ -24,6 +24,7 @@ El meu projecte d'Eclipse del curs. Cada classe `.java` té al costat **el seu a
 | 16 | `alternativesswitch.exempleNum` | [exempleNum.md](src/alternativesswitch/exempleNum.md) | `switch` amb números, `break` i caiguda, `case 12, 1, 2:`, `i++` |
 | 17 | `alternativesswitch.exempleString` | [exempleString.md](src/alternativesswitch/exempleString.md) | `switch` amb text: `case "cafe":` |
 | 18 | `introbucles.IntroduccioWhile` | [IntroduccioWhile.md](src/introbucles/IntroduccioWhile.md) | `while`: bucle infinit, comptador, bucle per verificar |
+| 19 | `introbucles.introduccioFor` | [introduccioFor.md](src/introbucles/introduccioFor.md) | `for`: inici/condició/increment, comptar enrere, increments raros |
 
 ## 📦 Paquets
 
@@ -37,7 +38,7 @@ Cada paquet té el seu `README.md` amb una explicació breu i els enllaços als 
 | [alternativesifs](src/alternativesifs/README.md) | `if`, `else if`, operadors lògics i el residu `%` |
 | [ProblemasJOEL](src/ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
 | [alternativesswitch](src/alternativesswitch/README.md) | El `switch` |
-| [introbucles](src/introbucles/README.md) | Bucles: el `while` |
+| [introbucles](src/introbucles/README.md) | Bucles: `while` i `for` |
 
 ### Llegenda dels apunts
 

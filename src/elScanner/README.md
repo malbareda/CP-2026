@@ -27,4 +27,4 @@ String linea = sc.nextLine();                // llegir una línia de text
 | [alternativesifs](../alternativesifs/README.md) | `if`, `else if`, operadors lògics i el residu `%` |
 | [ProblemasJOEL](../ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
 | [alternativesswitch](../alternativesswitch/README.md) | El `switch` |
-| [introbucles](../introbucles/README.md) | Bucles: el `while` |
+| [introbucles](../introbucles/README.md) | Bucles: `while` i `for` |

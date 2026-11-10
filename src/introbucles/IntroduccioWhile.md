@@ -1,6 +1,6 @@
 # IntroduccioWhile — El bucle `while`: repetir
 
-[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../alternativesswitch/exempleString.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](../alternativesswitch/exempleString.md) · [Següent ➡️](introduccioFor.md)
 
 Fitxer: `src/introbucles/IntroduccioWhile.java`
 

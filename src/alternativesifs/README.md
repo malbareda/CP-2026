@@ -34,4 +34,4 @@ Per fer les condicions calen els **operadors lògics** (`>`, `==`, `&&`, `||`...
 | [ProblemasIntroJoel](../ProblemasIntroJoel/README.md) | Primers exercicis: Hello World i Pa amb tomàquet |
 | [ProblemasJOEL](../ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
 | [alternativesswitch](../alternativesswitch/README.md) | El `switch` |
-| [introbucles](../introbucles/README.md) | Bucles: el `while` |
+| [introbucles](../introbucles/README.md) | Bucles: `while` i `for` |
