@@ -1,6 +1,6 @@
 # introduccioFor — El bucle `for`: comptar d'un inici a un final
 
-[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](IntroduccioWhile.md)
+[🏠 Índex](../../README.md) · [📦 Paquet](README.md) · [⬅️ Anterior](IntroduccioWhile.md) · [Següent ➡️](../ProblemasJOEL/segonDeBucles.md)
 
 Fitxer: `src/introbucles/introduccioFor.java`
 

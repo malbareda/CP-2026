@@ -25,6 +25,7 @@ String linea = sc.nextLine();                // llegir una línia de text
 | [src (default package)](../README.md) | Fonaments: `main`, `println`, variables |
 | [ProblemasIntroJoel](../ProblemasIntroJoel/README.md) | Primers exercicis: Hello World i Pa amb tomàquet |
 | [alternativesifs](../alternativesifs/README.md) | `if`, `else if`, operadors lògics i el residu `%` |
-| [ProblemasJOEL](../ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
+| [ProblemasJOEL](../ProblemasJOEL/README.md) | Exercicis: Eleccions (`if`) i casos de prova (bucles) |
 | [alternativesswitch](../alternativesswitch/README.md) | El `switch` |
 | [introbucles](../introbucles/README.md) | Bucles: `while` i `for` |
+| [buclesAcumulador](../buclesAcumulador/README.md) | Acumuladors dins dels bucles |

@@ -1,8 +1,11 @@
-# 📦 `ProblemasJOEL` — Exercicis amb `if`
+# 📦 `ProblemasJOEL` — Exercicis
 
 [🏠 Índex general](../../README.md) · [⬆️ src](../README.md)
 
-Problemes per practicar les alternatives de [alternativesifs](../alternativesifs/README.md): llegir dades amb l'`Scanner` i decidir què s'escriu amb `if` / `else if` / `else`.
+Problemes per practicar el que anem veient:
+
+- **Eleccions**: les alternatives de [alternativesifs](../alternativesifs/README.md) (llegir dades i decidir què s'escriu amb `if` / `else if` / `else`).
+- **segonDeBucles**: els bucles de [introbucles](../introbucles/README.md), amb el format típic de "casos de prova".
 
 Les tres versions d'**Eleccions** són el mateix problema, cada cop una mica més complet:
 
@@ -18,6 +21,7 @@ flowchart LR
 | `Eleccions2020` | [Eleccions2020.md](Eleccions2020.md) | Qui guanya entre Jiden i Drump (si empaten no surt res) |
 | `Eleccions20202` | [Eleccions20202.md](Eleccions20202.md) | El mateix, amb `else` per a l'empat |
 | `Eleccions20203` | [Eleccions20203.md](Eleccions20203.md) | Tres candidats: cal `&&` per guanyar als dos altres |
+| `segonDeBucles` | [segonDeBucles.md](segonDeBucles.md) | Casos de prova: bucles niuats amb `for` i amb `while` |
 
 ## 🗂️ Altres paquets
 
@@ -29,3 +33,4 @@ flowchart LR
 | [alternativesifs](../alternativesifs/README.md) | `if`, `else if`, operadors lògics i el residu `%` |
 | [alternativesswitch](../alternativesswitch/README.md) | El `switch` |
 | [introbucles](../introbucles/README.md) | Bucles: `while` i `for` |
+| [buclesAcumulador](../buclesAcumulador/README.md) | Acumuladors dins dels bucles |

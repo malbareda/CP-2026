@@ -25,6 +25,7 @@ flowchart LR
 | [src (default package)](../README.md) | Fonaments: `main`, `println`, variables |
 | [elScanner](../elScanner/README.md) | Llegir del teclat amb l'`Scanner` |
 | [alternativesifs](../alternativesifs/README.md) | `if`, `else if`, operadors lògics i el residu `%` |
-| [ProblemasJOEL](../ProblemasJOEL/README.md) | Exercicis amb `if`: les Eleccions |
+| [ProblemasJOEL](../ProblemasJOEL/README.md) | Exercicis: Eleccions (`if`) i casos de prova (bucles) |
 | [alternativesswitch](../alternativesswitch/README.md) | El `switch` |
 | [introbucles](../introbucles/README.md) | Bucles: `while` i `for` |
+| [buclesAcumulador](../buclesAcumulador/README.md) | Acumuladors dins dels bucles |

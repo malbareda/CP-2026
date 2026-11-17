@@ -34,10 +34,10 @@ public class ElAcumulador {
 		int acc2 = 0;
 		int numero = sc.nextInt();
 		while(numero>=0) {
-			acc = acc+numero;
+			acc2 = acc2+numero;
 			numero = sc.nextInt();
 		}
-		System.out.println(acc);
+		System.out.println(acc2);
 		
 		
 		System.out.println("acumulador negativo");
